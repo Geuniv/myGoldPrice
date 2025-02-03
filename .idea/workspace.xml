@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15107ae5-ce9c-411c-9524-7fa49de9c208" name="Changes" comment="AI응용기술 ( 2학년 2학기 - 김진석 교수님 )">
+    <list default="true" id="15107ae5-ce9c-411c-9524-7fa49de9c208" name="Changes" comment="AI응용기술 ( 2학년 1학기 - 김진석 교수님 )">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Geuniv"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Geuniv/myGoldPrice.git",
+    "accountId": "62894290-3801-4c21-be5e-64d07fd867ee"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -121,7 +133,8 @@
       <workItem from="1724436174537" duration="1372000" />
       <workItem from="1724518721099" duration="44000" />
       <workItem from="1724518896889" duration="1219000" />
-      <workItem from="1724664160883" duration="604000" />
+      <workItem from="1724664160883" duration="802000" />
+      <workItem from="1726708356987" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="AI응용기술 ( 2학년 2학기 - 김진석 교수님 )">
       <option name="closed" value="true" />
@@ -131,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724435849196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AI응용기술 ( 2학년 1학기 - 김진석 교수님 )">
+      <option name="closed" value="true" />
+      <created>1724664934276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724664934276</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="AI응용기술 ( 2학년 2학기 - 김진석 교수님 )" />
-    <option name="LAST_COMMIT_MESSAGE" value="AI응용기술 ( 2학년 2학기 - 김진석 교수님 )" />
+    <MESSAGE value="AI응용기술 ( 2학년 1학기 - 김진석 교수님 )" />
+    <option name="LAST_COMMIT_MESSAGE" value="AI응용기술 ( 2학년 1학기 - 김진석 교수님 )" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
